@@ -7,6 +7,8 @@
 - [VSCode](https://code.visualstudio.com/) o cualquier editor de tu preferencia
 - **CMD**
 
+[TOC]
+
 1. Se debe de crear una aplicacion nueva dentro de Postman
 
 #### Tipo de metodo (method): PUT
@@ -27,3 +29,5 @@ En **headers** de postman se colocan los siguientes valores. (La información se
 **value** = Es el valor de la cookie que les aparece en el administrador del sitio
 
 ![](https://github.com/DavidTorresBrandlive/more-docs/blob/master/assets/console-api.png?raw=true)
+
+Tener en cuenta que el valor de esa cookie siempre cambia.
