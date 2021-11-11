@@ -13,10 +13,10 @@
 
 ##### Ejemplo
 
-`{{name-account}}.vtexcommercestable.com.br/api/dataentities/vtable/documents/newsletter`
+`{{ name-account }}.vtexcommercestable.com.br/api/dataentities/vtable/documents/{{ entity }}`
 
-`{{name-account}}`  = _Nombre de la cuenta_ **-->** *(springstep, diageo, karibik)*
-`{{entity}}`        = _Nombre de la entidad_ **-->** *(newsletter, contact-us, workWithUs)*
+`{{ name-account }}`  = _Nombre de la cuenta_ **-->** *(springstep, diageo, karibik)*
+`{{ entity }}`        = _Nombre de la entidad_ **-->** *(newsletter, contact-us, workWithUs)*
 
 En **headers** de postman se colocan los siguientes valores. (La información se obtiene por medio de la consola de Google del proyecto en cuestión)
 
