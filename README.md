@@ -15,6 +15,7 @@
 
 `{{ name-account }}.vtexcommercestable.com.br/api/dataentities/vtable/documents/{{ entity }}`
 
+
 `{{ name-account }}`  = _Nombre de la cuenta_ **-->** *(springstep, diageo, karibik)*
 
 `{{ entity }}`        = _Nombre de la entidad_ **-->** *(newsletter, contact-us, workWithUs)*
@@ -22,6 +23,7 @@
 En **headers** de postman se colocan los siguientes valores. (La información se obtiene por medio de la consola de Google del proyecto en cuestión)
 
 **key**   = VtexIdclientAutCookie
+
 **value** = Es el valor de la cookie que les aparece en el administrador del sitio
 
-![](https://keep.google.com/u/0/media/v2/1LRs8VGcmq5__kCoaPmWuCDteXCDOyzQkxSD8XFq-TltPzZ1BWHYlsg6KmXdP3A/1FASPfo38rT6JYHP9HOVIbFOSI1daRylDAaNRiuO2l4BD9yY-qorfhBuH2RDcgzA?sz=512&accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp)
+![](https://github.com/DavidTorresBrandlive/more-docs/blob/master/assets/console-api.png?raw=true)
