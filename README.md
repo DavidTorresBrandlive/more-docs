@@ -1,13 +1,12 @@
 # Proceso Para crear un formulario desde 0
 
+[TOCM]
 #### Requisitos y Software
 
 - [Postman](https://www.postman.com/downloads/?utm_source=postman-home)
 - [VTEXio](https://developers.vtex.com/vtex-developer-docs/docs/welcome)
 - [VSCode](https://code.visualstudio.com/) o cualquier editor de tu preferencia
 - **CMD**
-
-[TOC]
 
 1. Se debe de crear una aplicacion nueva dentro de Postman
 
