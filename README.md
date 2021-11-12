@@ -8,5 +8,5 @@
 
 # Contributions - Contribuciones
 
-If you want to make a contribution, do not hesitate to send me the request to the [mail](david.torres@brandlive.co)
+If you want to make a contribution, do not hesitate to send me the request to the [mail](david.torres@brandlive.co)<br />
 Si quieres hacer una contribucion, no dudes en enviarme la solicitud al [correo](david.torres@brandlive.co)
