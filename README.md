@@ -1,4 +1,4 @@
-# Welcome - Bienvneid@
+# Welcome - Bienvenid@
 
 *Select the language in which you want to see the documentation.*<br />
 *(Selecciona el idioma en el cual quieres ver la documentación.)*
