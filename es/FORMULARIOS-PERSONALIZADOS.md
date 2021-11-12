@@ -7,8 +7,7 @@
 - [VSCode](https://code.visualstudio.com/) o cualquier editor de tu preferencia
 - **CMD**<br /><br />
 
-1. Se debe de crear una aplicacion nueva dentro de Postman
-
+1. Se debe de crear una aplicacion nueva dentro de Postman<br />
   #### Tipo de metodo (method): PUT
 
   ##### Ejemplo
