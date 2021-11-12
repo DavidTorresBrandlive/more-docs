@@ -8,20 +8,20 @@
 - **CMD**<br /><br />
 
 1. Se debe de crear una aplicacion nueva dentro de Postman<br />
-  #### Tipo de metodo (method): PUT
-
-  ##### Ejemplo
-
-  `{{ name-account }}.vtexcommercestable.com.br/api/dataentities/vtable/documents/{{ entity }}`
-
-  `{{ name-account }}`  = _Nombre de la cuenta_ **-->** *(springstep, diageo, karibik)* <br />
-  `{{ entity }}`        = _Nombre de la entidad_ **-->** *(newsletter, contact-us, workWithUs)*
-
-  En **headers** de postman se colocan los siguientes valores. (La información se obtiene por medio de la consola de Google del proyecto en cuestión)
-
-  **key**   = VtexIdclientAutCookie <br />
-  **value** = Es el valor de la cookie que les aparece en el administrador del sitio
-
-  ![](https://github.com/DavidTorresBrandlive/more-docs/blob/master/assets/console-api.png?raw=true)
-
-  *Tener en cuenta que el valor de esa cookie siempre cambia.*
+    #### Tipo de metodo (method): PUT
+  
+    ##### Ejemplo
+  
+    `{{ name-account }}.vtexcommercestable.com.br/api/dataentities/vtable/documents/{{ entity }}`
+  
+    `{{ name-account }}`  = _Nombre de la cuenta_ **-->** *(springstep, diageo, karibik)* <br />
+    `{{ entity }}`        = _Nombre de la entidad_ **-->** *(newsletter, contact-us, workWithUs)*
+  
+    En **headers** de postman se colocan los siguientes valores. (La información se obtiene por medio de la consola de Google del proyecto en cuestión)
+  
+    **key**   = VtexIdclientAutCookie <br />
+    **value** = Es el valor de la cookie que les aparece en el administrador del sitio
+  
+    ![](https://github.com/DavidTorresBrandlive/more-docs/blob/master/assets/console-api.png?raw=true)
+  
+    *Tener en cuenta que el valor de esa cookie siempre cambia.*
